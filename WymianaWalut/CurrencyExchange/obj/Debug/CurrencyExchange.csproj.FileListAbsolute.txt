@@ -1,0 +1,7 @@
+C:\Users\Piotrek\source\repos\WymianaWalut\CurrencyExchange\bin\Debug\CurrencyExchange.exe.config
+C:\Users\Piotrek\source\repos\WymianaWalut\CurrencyExchange\bin\Debug\CurrencyExchange.exe
+C:\Users\Piotrek\source\repos\WymianaWalut\CurrencyExchange\bin\Debug\CurrencyExchange.pdb
+C:\Users\Piotrek\source\repos\WymianaWalut\CurrencyExchange\obj\Debug\CurrencyExchange.csproj.CoreCompileInputs.cache
+C:\Users\Piotrek\source\repos\WymianaWalut\CurrencyExchange\obj\Debug\CurrencyExchange.exe
+C:\Users\Piotrek\source\repos\WymianaWalut\CurrencyExchange\obj\Debug\CurrencyExchange.pdb
+C:\Users\Piotrek\source\repos\WymianaWalut\CurrencyExchange\obj\Debug\CurrencyExchange.csprojAssemblyReference.cache
